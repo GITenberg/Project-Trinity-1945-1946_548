@@ -1,0 +1,33 @@
+_repo: Project-Trinity-1945-1946_548
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Rohrer, Steve
+    gutenberg_agent_id: '281'
+    url: http://www.gutenberg.org/2009/agents/281
+  - agent_name: Maag, Carl R.
+    gutenberg_agent_id: '280'
+    url: http://www.gutenberg.org/2009/agents/280
+description: This report describes the activities of an estimated 1,000 personnel,
+  both military and civilian, in Project TRINITY, which culminated in detonation of
+  the first nuclear device, in New Mexico in 1945. Scientific and diagnostic experiments
+  to evaluate the effects of the nuclear device were the primary activities engaging
+  military personnel.
+gutenberg_bookshelf: World War II
+gutenberg_issued: '1996-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '548'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nuclear weapons -- Testing'
+- !lcsh 'Atomic bomb -- New Mexico -- Testing'
+- !lcsh 'Radioactive fallout -- New Mexico'
+- !lcc 'QC'
+- !lcc 'U'
+- GITenberg
+title: Project Trinity, 1945-1946
+url: http://www.gutenberg.org/ebooks/548
