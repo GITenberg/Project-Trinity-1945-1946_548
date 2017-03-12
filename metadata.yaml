@@ -1,5 +1,8 @@
 _repo: Project-Trinity-1945-1946_548
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Rohrer, Steve
@@ -13,6 +16,8 @@ description: This report describes the activities of an estimated 1,000 personne
   the first nuclear device, in New Mexico in 1945. Scientific and diagnostic experiments
   to evaluate the effects of the nuclear device were the primary activities engaging
   military personnel.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/548#Project-Trinity-1945-1946
 gutenberg_bookshelf: World War II
 gutenberg_issued: '1996-06-01'
 gutenberg_type: Text
